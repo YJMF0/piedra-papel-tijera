@@ -15,15 +15,15 @@ let imgPc;
 const imagenes = [
     {
         name: "Piedra",
-        url: "recursos/Piedra.PNG" 
+        url: "./recursos/Piedra.PNG" 
     },
     {
         name: "Papel",
-        url: "recursos/Papel.PNG" 
+        url: "./recursos/Papel.PNG" 
     },
     {
         name: "Tijeras",
-        url: "recursos/Tijeras.PNG" 
+        url: "./recursos/Tijeras.PNG" 
     }
 ];
 
